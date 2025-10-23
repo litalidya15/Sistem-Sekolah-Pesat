@@ -1,1 +1,1 @@
-<h1>halaman home</h1>
+<h1>halaman beranda</h1>
